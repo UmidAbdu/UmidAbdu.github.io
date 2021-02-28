@@ -1,0 +1,24 @@
+h1 {
+    color : #003dff; font-family: Arial;
+} body {
+    background-color: #404040;
+
+  }
+  p, li {
+      color : #b8b8b8; font-family: Arial;
+  }
+
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+a:visited {
+    color: red; text-decoration: none;
+}
+a:hover {
+    color: green; text-decoration: underline;
+}
+
+a:active {
+    color: green; text-decoration: none;
+}
