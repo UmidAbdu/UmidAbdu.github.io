@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>About Me</title>
     <link href="aboutme-style.css" type="text/css" rel="stylesheet">
     <h1>About Me</h1>
     <p>My name is Umidjon Abdugafforov, I'm a sophomore student in Inha University in Tashkent</p>
